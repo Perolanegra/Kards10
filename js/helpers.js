@@ -632,3 +632,7 @@ module.exports = {
 	chooseMessageType,
 	regexStr
 };
+
+function igor() {
+	console.log('okkkk');
+}
