@@ -632,3 +632,7 @@ module.exports = {
 	chooseMessageType,
 	regexStr
 };
+
+function teste() {
+	console.log('123');
+}
