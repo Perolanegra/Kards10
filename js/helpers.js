@@ -636,3 +636,7 @@ module.exports = {
 function igor() {
 	console.log('okkkk');
 }
+
+function teste() {
+	console.log('123');
+}
